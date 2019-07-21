@@ -5,6 +5,23 @@
   <link rel="stylesheet" href="font.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+
+.containerbefore0 {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  color: white;
+  display: inline-block;
+}
+
+.container0 {
+  width:1400px;
+  position: relative;
+  text-align: center;
+  color: white;
+  display: inline-block;
+}
+
 .container {
   width:500px;
   position: relative;
@@ -69,9 +86,12 @@
 
 </style>
 </head>
-<body>
+<body bgcolor="Black" >
+  <div class="containerbefore0">
+    <img src="asset_template/Banner.png" style="width: 50%"  align="middle" />    
+<div class="container0">
 
-
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Buster%20Light Gray">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -95,7 +115,7 @@
             <p style="font-size: 20px;">
                   FGO Buster Light Gray"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -119,7 +139,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Quick%20Light Gray">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -143,7 +165,7 @@
             <p style="font-size: 20px;">
                   FGO Quick Light Gray"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -167,7 +189,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Arts%20Light Gray">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -191,7 +215,7 @@
             <p style="font-size: 20px;">
                   FGO Arts Light Gray"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -215,7 +239,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Extra%20Light Gray">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -239,7 +265,7 @@
             <p style="font-size: 20px;">
                   FGO Extra Light Gray"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -263,7 +289,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Buster%20Dark Gray">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -287,7 +315,7 @@
             <p style="font-size: 20px;">
                   FGO Buster Dark Gray"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -311,7 +339,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Quick%20Dark Gray">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -335,7 +365,7 @@
             <p style="font-size: 20px;">
                   FGO Quick Dark Gray"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -359,7 +389,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Arts%20Dark Gray">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -383,7 +415,7 @@
             <p style="font-size: 20px;">
                   FGO Arts Dark Gray"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -407,7 +439,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Extra%20Dark Gray">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -431,7 +465,7 @@
             <p style="font-size: 20px;">
                   FGO Extra Dark Gray"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -455,7 +489,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Buster%20White">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -479,7 +515,7 @@
             <p style="font-size: 20px;">
                   FGO Buster White"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -503,7 +539,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Quick%20White">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -527,7 +565,7 @@
             <p style="font-size: 20px;">
                   FGO Quick White"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -551,7 +589,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Arts%20White">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -575,7 +615,7 @@
             <p style="font-size: 20px;">
                   FGO Arts White"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -599,7 +639,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Extra%20White">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -623,7 +665,7 @@
             <p style="font-size: 20px;">
                   FGO Extra White"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -647,7 +689,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Buster%20Black">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -671,7 +715,7 @@
             <p style="font-size: 20px;">
                   FGO Buster Black"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -695,7 +739,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Quick%20Black">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -719,7 +765,7 @@
             <p style="font-size: 20px;">
                   FGO Quick Black"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -743,7 +789,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Arts%20Black">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -767,7 +815,7 @@
             <p style="font-size: 20px;">
                   FGO Arts Black"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -791,7 +839,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Extra%20Black">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -815,7 +865,7 @@
             <p style="font-size: 20px;">
                   FGO Extra Black"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -839,7 +889,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Buster%20Red">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -863,7 +915,7 @@
             <p style="font-size: 20px;">
                   FGO Buster Red"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -887,7 +939,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Quick%20Red">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -911,7 +965,7 @@
             <p style="font-size: 20px;">
                   FGO Quick Red"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -935,7 +989,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Arts%20Red">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -959,7 +1015,7 @@
             <p style="font-size: 20px;">
                   FGO Arts Red"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -983,7 +1039,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Extra%20Red">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -1007,7 +1065,7 @@
             <p style="font-size: 20px;">
                   FGO Extra Red"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -1031,7 +1089,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Buster%20Blue">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -1055,7 +1115,7 @@
             <p style="font-size: 20px;">
                   FGO Buster Blue"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -1079,7 +1139,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Quick%20Blue">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -1103,7 +1165,7 @@
             <p style="font-size: 20px;">
                   FGO Quick Blue"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -1127,7 +1189,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Arts%20Blue">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -1151,7 +1215,7 @@
             <p style="font-size: 20px;">
                   FGO Arts Blue"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -1175,7 +1239,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Extra%20Blue">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -1199,7 +1265,7 @@
             <p style="font-size: 20px;">
                   FGO Extra Blue"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -1223,7 +1289,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Buster%20Blue">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -1247,7 +1315,7 @@
             <p style="font-size: 20px;">
                   FGO Buster Blue"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -1271,7 +1339,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Quick%20Blue">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -1295,7 +1365,7 @@
             <p style="font-size: 20px;">
                   FGO Quick Blue"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -1319,7 +1389,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Arts%20Blue">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -1343,7 +1415,7 @@
             <p style="font-size: 20px;">
                   FGO Arts Blue"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -1367,7 +1439,9 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
+<a style="color: white" href="https://wa.me/628989019089?text=Hallo%20Cyber%20Holic,%20Saya%20tertarik%20dengan%20Produk%20FGO%20Extra%20Blue">
       <div class="container">
         <img src="asset_template/template.png" alt="Katalog" style="width:500px;">
 
@@ -1391,7 +1465,7 @@
             <p style="font-size: 20px;">
                   FGO Extra Blue"
            </p>
-         </a>
+         
           </div>
 
           <div class="deskripsi">
@@ -1415,8 +1489,10 @@
             <h3>Price : 110.000</h3>
           </div>
       </div>
+      </a>
 
 
-
+</div>
+</div>
 </body>
 </html> 
